@@ -12,5 +12,4 @@
 
 
 
-## Snake eating my contributions graph
-![snake gif](https://github.com/shoaib7262/shoaib7262/blob/output/github-contribution-grid-snake.gif)
+
